@@ -1,0 +1,2 @@
+# bsgo
+shell web go
